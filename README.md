@@ -1,1 +1,1 @@
-# Image-Scraper
+# ImageScrapper
