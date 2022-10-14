@@ -1,3 +1,2 @@
 # ImageScrapper
 
-Using Python & Selenium
