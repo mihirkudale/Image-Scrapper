@@ -1,2 +1,2 @@
-# ImageScrapper
+# Image Scrapper
 
